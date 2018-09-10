@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "JIRATicketState": {
+      "commandName": "Executable",
+      "executablePath": "D:\\JIRAConnector\\JIRATicketState\\JIRATicketState\\bin\\Debug\\netcoreapp2.0\\win7-x64\\publish\\JIRATicketState.exe",
+      "commandLineArgs": "-t \"MEB-4952\" \"IN DEV\" \"RESOLVED\""
+    }
+  }
+}
